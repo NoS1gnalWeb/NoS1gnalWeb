@@ -40,6 +40,8 @@ Je m'intéresse également depuis peu au Reverse Engineering et au attaques rés
 
 > ###  Web dev <br />
 * Laravel
+* Lumen
+* React
 * Bootstrap
 * MDBootstrap
 * Visual Studio Code
